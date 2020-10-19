@@ -1,2 +1,5 @@
 abtem
 pymatgen
+gpaw
+bqplot
+bqplot-image-gl
